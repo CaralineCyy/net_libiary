@@ -1,0 +1,5 @@
+F:\蔡云云\CYYJOB\projects\szzlpt2.0\公共模块\SZSOFT.DBUtility\bin\Debug\Szgxsoft.DBUtility.dll
+F:\蔡云云\CYYJOB\projects\szzlpt2.0\公共模块\SZSOFT.DBUtility\bin\Debug\Szgxsoft.DBUtility.pdb
+F:\蔡云云\CYYJOB\projects\szzlpt2.0\公共模块\SZSOFT.DBUtility\obj\Debug\Szgxsoft.DBUtility.dll
+F:\蔡云云\CYYJOB\projects\szzlpt2.0\公共模块\SZSOFT.DBUtility\obj\Debug\Szgxsoft.DBUtility.pdb
+F:\蔡云云\CYYJOB\projects\szzlpt2.0\公共模块\SZSOFT.DBUtility\obj\Debug\SZSOFT.DBUtility.csprojResolveAssemblyReference.cache
